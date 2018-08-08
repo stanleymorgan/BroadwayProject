@@ -2,7 +2,10 @@ h1{
   font-size: 70px;
   font-family: Helvetica;
   font-weight: bold;
+}
+h1, .top, #lowerheading{
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 .top{
   font-family: Helvetica;
